@@ -14,6 +14,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ### Resultado
 ![image](https://github.com/user-attachments/assets/5ff69f88-5fad-42c9-a1e8-e90e2c4246c8)
 
+### Evidencia de autoría
+(se omite en este caso ya que este se realizó en la U1 y aún no se daba la indicación)
+
 ## 02: Prototipo 2.
 ### Resultado
 ![image](https://github.com/user-attachments/assets/2190a48c-9379-48b5-9713-79d624488cc6)
