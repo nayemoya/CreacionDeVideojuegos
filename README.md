@@ -11,6 +11,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 
 ## 01: Prototipo 1.
+### Link del proyecto
+https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unitypackage
+
 ### Resultado
 ![image](https://github.com/user-attachments/assets/5ff69f88-5fad-42c9-a1e8-e90e2c4246c8)
 
