@@ -21,6 +21,9 @@ https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unityp
 (se omite en este caso ya que este se realizó en la U1 y aún no se daba la indicación)
 
 ## 02: Prototipo 2.
+### Link del proyecto
+https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unitypackage
+
 ### Resultado
 ![image](https://github.com/user-attachments/assets/2190a48c-9379-48b5-9713-79d624488cc6)
 
