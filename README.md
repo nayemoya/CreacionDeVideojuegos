@@ -13,7 +13,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ## 01: Prototipo 1.
 ### Link del proyecto
 <a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unitypackage">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
 
 ### Resultado
@@ -25,7 +25,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ## 02: Prototipo 2.
 ### Link del proyecto
 <a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unitypackage">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
 
 ### Resultado
@@ -39,7 +39,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ## 03: Desafío 1.
 ### Link del proyecto
 <a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%201.unitypackage">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
 
 ### Resultado
