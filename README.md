@@ -8,6 +8,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ### **TABLA DE CONTENIDO**
 - [01: Prototipo 1.](#01-Prototipo-1)
 - [02: Prototipo 2.](#02-Prototipo-2)
+- [03: Desafío 1.](#03-Desafío-1)
 
 
 ## 01: Prototipo 1.
@@ -29,3 +30,10 @@ https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unityp
 
 ### Evidencia de autoría
 [LECCION02_NayeliMoyaDíaz.pdf](https://github.com/user-attachments/files/17249023/LECCION02_NayeliMoyaDiaz.pdf)
+
+## 03: Desafío 1.
+### Link del proyecto
+
+### Resultado
+![image](https://github.com/user-attachments/assets/c2f39376-1368-4145-8a04-6494b8c27206)
+
