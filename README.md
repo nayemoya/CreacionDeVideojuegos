@@ -12,7 +12,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ## 01: Prototipo 1.
 ### Link del proyecto
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unitypackage)
+<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unitypackage">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30"/>
+</a>
 
 ### Resultado
 ![image](https://github.com/user-attachments/assets/5ff69f88-5fad-42c9-a1e8-e90e2c4246c8)
@@ -22,20 +24,23 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ## 02: Prototipo 2.
 ### Link del proyecto
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unitypackage)
+<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unitypackage">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30"/>
+</a>
 
 ### Resultado
 ![image](https://github.com/user-attachments/assets/2190a48c-9379-48b5-9713-79d624488cc6)
 
 ### Evidencia de autoría
-[![PDF](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg)](https://github.com/user-attachments/files/17249023/LECCION02_NayeliMoyaDiaz.pdf)
+<a href="https://github.com/user-attachments/files/17249023/LECCION02_NayeliMoyaDiaz.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
 
 ## 03: Desafío 1.
 ### Link del proyecto
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%201.unitypackage)
+<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%201.unitypackage">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30"/>
+</a>
 
 ### Resultado
 ![image](https://github.com/user-attachments/assets/c2f39376-1368-4145-8a04-6494b8c27206)
-
-
-
