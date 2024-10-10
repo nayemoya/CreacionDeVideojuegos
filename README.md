@@ -33,6 +33,7 @@ https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unityp
 
 ## 03: Desafío 1.
 ### Link del proyecto
+https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%201.unitypackage
 
 ### Resultado
 ![image](https://github.com/user-attachments/assets/c2f39376-1368-4145-8a04-6494b8c27206)
