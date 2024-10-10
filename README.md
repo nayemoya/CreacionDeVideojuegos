@@ -32,7 +32,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ![image](https://github.com/user-attachments/assets/2190a48c-9379-48b5-9713-79d624488cc6)
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17249023/LECCION02_NayeliMoyaDiaz.pdf">
+<a href="https://github.com/user-attachments/files/17335387/LECCION02_NayeliMoyaDiaz.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
