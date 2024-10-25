@@ -7,7 +7,7 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 ---
 
 ### **📑 Tabla de Contenido**
-- [01: Prototipo 1.](#01-Prototipo-1)
+- [01: Prototipo 1.](#01-Prototipo-1-🛠️)
 - [02: Prototipo 2.](#02-Prototipo-2)
 - [03: Desafío 1.](#03-Desafío-1)
 
