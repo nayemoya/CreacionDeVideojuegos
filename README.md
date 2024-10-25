@@ -7,13 +7,14 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 ---
 
 ### **📑 Tabla de Contenido**
-- [01: Prototipo 1](#01-Prototipo-1)
-- [02: Prototipo 2](#02-Prototipo-2)
-- [03: Desafío 1](#03-Desafío-1)
+- [01: Prototipo 1](#prototipo-1)
+- [02: Prototipo 2](#prototipo-2)
+- [03: Desafío 1](#desafio-1)
 
 ---
 
-## 01: Prototipo 1
+<a name="prototipo-1"></a>
+## 01: Prototipo 1 🛠️
 > **Link del proyecto**:  
 > <p align="center">
 <a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unitypackage">
@@ -29,7 +30,8 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 
 ---
 
-## 02: Prototipo 2
+<a name="prototipo-2"></a>
+## 02: Prototipo 2 🛠️
 > **Link del proyecto**:  
 > <p align="center">
 <a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%202.unitypackage">
@@ -49,7 +51,8 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 
 ---
 
-## 03: Desafío 1
+<a name="desafio-1"></a>
+## 03: Desafío 1 ⚔️
 > **Link del proyecto**:  
 > <p align="center">
 <a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%201.unitypackage">
