@@ -2,7 +2,7 @@
 Repositorio que contiene los trabajos realizados en la asignatura de **Creación de Videojuegos 2024**.
 
 ## 🕹️ U2: Programación Orientada a Objetos para Videojuegos
-### Nayeli Moya Díaz | GIDS4102
+### Nayeli Moya Díaz 🦦 | GIDS4102
 
 ---
 
