@@ -9,7 +9,8 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 ## **📑 Tabla de Contenido**
 - [01: Prototipo 1](#prototipo-1)
 - [02: Prototipo 2](#prototipo-2)
-- [03: Desafío 1](#desafio-1)
+- [03: Prototipo 3](#prototipo-3)
+- [04: Desafío 1](#desafio-1)
 
 ---
 
@@ -45,6 +46,29 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 ### **✍️ Evidencia de autoría**  
 > <p align="center">
 <a href="https://github.com/user-attachments/files/17335387/LECCION02_NayeliMoyaDiaz.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="45"/>
+</a>
+</p>
+
+---
+
+<a name="prototipo-3"></a>
+## 02: Prototipo 3 🛠️
+> **Link del proyecto**:  
+> <p align="center">
+<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%203.unitypackage">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="60"/>
+</a>
+</p>
+
+### 🎮 Resultado
+![image](https://github.com/user-attachments/assets/e3fe398c-3469-461b-a077-b08cb374bf61)
+
+![image](https://github.com/user-attachments/assets/f0ffcdaf-6d87-45ab-b6c4-09d6b76159e9)
+
+### **✍️ Evidencia de autoría**  
+> <p align="center">
+<a href="https://github.com/user-attachments/files/17792182/PROTOTIPO03_NayeliMoyaDiaz.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="45"/>
 </a>
 </p>
