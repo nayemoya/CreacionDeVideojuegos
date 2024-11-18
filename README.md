@@ -11,7 +11,9 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 - [02: Prototipo 2](#prototipo-2)
 - [03: Prototipo 3](#prototipo-3)
 - [04: Prototipo 4](#prototipo-4)
-- [05: Desafío 1](#desafio-1)
+- [05: Prototipo 5](#prototipo-5)
+- [06: Desafío 1](#desafio-1)
+- [07: Desafío 2](#desafio-2)
 
 ---
 
@@ -97,6 +99,27 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 
 ---
 
+<a name="prototipo-5"></a>
+## 02: Prototipo 5 🛠️
+> **Link del proyecto**:  
+> <p align="center">
+<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%205.unitypackage">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="60"/>
+</a>
+</p>
+
+### 🎮 Resultado
+![image](https://github.com/user-attachments/assets/a9d53e5b-726c-4c2c-83ed-f5412b0cb67a)
+
+### **✍️ Evidencia de autoría**  
+> <p align="center">
+<a href="https://github.com/user-attachments/files/17794879/PROTOTIPO05_NayeliMoyaDiaz.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="45"/>
+</a>
+</p>
+
+---
+
 <a name="desafio-1"></a>
 ## 03: Desafío 1 ⚔️
 > **Link del proyecto**:  
@@ -108,6 +131,20 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 
 ### 🎮 Resultado
 ![image](https://github.com/user-attachments/assets/c2f39376-1368-4145-8a04-6494b8c27206)
+
+---
+
+<a name="desafio-2"></a>
+## 03: Desafío 2 ⚔️
+> **Link del proyecto**:  
+> <p align="center">
+<a href="">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="60"/>
+</a>
+</p>
+
+### 🎮 Resultado
+![image](https://github.com/user-attachments/assets/42f3eac4-8e12-4081-bb96-a2ba1d7b8667)
 
 ---
 
