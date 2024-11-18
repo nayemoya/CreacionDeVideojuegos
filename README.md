@@ -138,7 +138,7 @@ Repositorio que contiene los trabajos realizados en la asignatura de **Creación
 ## 03: Desafío 2 ⚔️
 > **Link del proyecto**:  
 > <p align="center">
-<a href="">
+<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%202.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="60"/>
 </a>
 </p>
